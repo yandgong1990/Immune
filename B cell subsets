@@ -1,2 +1,9 @@
 ####imature B and mature B cell
 TCL1A： mature B cell
+
+
+B cellular subsets	Markers	Functions	
+Regulatory B cells	CD20+ CD27- PD-L1+ CD19+ CD5+ CD43+	Suppress CD8+ cytotoxic T cells by producing IL-10.	
+Memory B cells	IgM+ IgD- CD27+	Support anti-tumor immune response, their presence correlates with better survival.	
+Activated B cells	CD19+ CD80+ CD86+ CD44+ CD69+ PD-L1+	Stimulate differentiation of CD4+ T cells into TH1 7 cells via the secretion of IL-27 and IL-6
+Plasma cells	CD20- CD24- CD27hi CD38hi	Produce antibodies, their presence correlates with better survival
