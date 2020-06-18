@@ -1,0 +1,15 @@
+##################source
+naive T：bone marrow， thymus
+memory T：lymph node， tissue， peripheral blood
+
+##################phenotype
+naive T：CD45RA，SELL， CCR7：相对静息，增殖不活跃
+不表达CD44， CD69，CD45RO
+
+Tcm：SELL，CCR7，CD45RO：外周血和淋巴结
+Tem：不表达SELL，CCR，表达CD45RO：外周血和组织
+T memory都表达中高程度的CD44
+
+
+CD27与CD28是共刺激分子，在绝大多数的rest T表达，激活后CD27，CD28表达升高，细胞进入增殖，当细胞分化为细胞毒性T细胞的时候表达降低。
+其配体是CD70，在B细胞表面表达，能够增强T细胞的活化。
