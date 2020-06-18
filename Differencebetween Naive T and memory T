@@ -13,3 +13,38 @@ T memory都表达中高程度的CD44
 
 CD27与CD28是共刺激分子，在绝大多数的rest T表达，激活后CD27，CD28表达升高，细胞进入增殖，当细胞分化为细胞毒性T细胞的时候表达降低。
 其配体是CD70，在B细胞表面表达，能够增强T细胞的活化。
+
+
+naive and memory T molecular feature：
+
+Process	Antigen	Function
+Costimulation/Survival	CD27	Costimulation
+CD28	Costimulation
+CD127	IL-7 signaling
+PD-1	Inhibition of effector function
+CD122	IL-2/IL-15 signaling
+CD132	γc cytokine signaling
+KLRG-1	Inhibition of effector function
+Activation	HLA	DR Peptide presentation
+CD38	Calcium flux/signal transduction
+CD69	Proliferation
+Adhesion	CD11a	Adhesion to APC/endothelium
+CD58	Adhesion to APC
+CD99	Transendothelial migration
+Migration	CD62L	Secondary lymphoid tissues homing
+CD103	Gut homing
+CCR4	Chemokine response/TH2 associated
+CCR5	Homing to inflamed tissues
+CCR6	Chemokine response/TH17 associated
+CCR9	Gut homing
+CCR10	Skin homing
+CXCR3	Homing to inflamed tissues
+CXCR4	Homing to bone marrow
+CLA	Skin homing
+Cytolytic molecules	Granzyme A	Cleavage of cellular proteins
+Granzyme B	Cleavage of cellular proteins
+Perforin	Pore-forming
+Miscellaneous	CD161	Regulation of proliferation/cytotoxicity
+IL-18Ra	18Ra Response to IL-18
+c-Kit	Response to SCF
+CD130	Response to IL-6
